@@ -1,0 +1,33 @@
+{
+  "name": "react-native-deep-link-with-response",
+  "title": "React Native Deep Link With Response",
+  "version": "1.0.26",
+  "description": "Module for react-native that uses deep-link call with answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonfrfilho/react-native-deep-link-with-response.git",
+    "baseUrl": "https://github.com/andersonfrfilho/react-native-deep-link-with-response"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Anderson",
+    "email": "andersonfrfilho@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
