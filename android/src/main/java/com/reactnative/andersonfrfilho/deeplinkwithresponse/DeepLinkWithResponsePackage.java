@@ -1,6 +1,6 @@
 package com.reactnative.andersonfrfilho.deeplinkwithresponse;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
 
 import java.util.Arrays;
 import java.util.Collections;
