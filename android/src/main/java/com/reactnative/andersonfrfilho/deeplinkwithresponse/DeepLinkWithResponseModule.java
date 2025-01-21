@@ -3,7 +3,7 @@ package com.reactnative.andersonfrfilho.deeplinkwithresponse;
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.SparseArray;
 
 import com.facebook.react.bridge.Promise;
