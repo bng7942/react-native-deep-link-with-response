@@ -1,7 +1,7 @@
 package com.reactnative.andersonfrfilho.deeplinkwithresponse;
 import android.os.Bundle;
 import android.os.Parcelable;
-import androidx.annotation.NonNull;
+import com.android.support:support-annotations;
 
 
 import com.facebook.react.bridge.ReadableArray;
